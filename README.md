@@ -30,7 +30,7 @@ pip install <librairy>
 * get_colors from distinctipy
 * base64
 
-ROOT was installed following the official CERN guide with conda on an Ubuntu VM.
+ROOT was installed following the official CERN guide (https://root.cern/install/) with conda on an Ubuntu VM.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
