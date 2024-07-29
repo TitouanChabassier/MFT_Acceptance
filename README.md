@@ -7,16 +7,26 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
-The libraries used in this project are listed in this section. A list is made for each code, but most of them are shared. Python3 comes with many libraries pre-installed.
-
-#### Draw MFT
+The libraries used in this project are listed in this section. Python3 comes with many libraries pre-installed such as numpy and pandas. To install a librairy, make sure Python3 is installed and then use pip.
+```
+pip install <librairy>
+```
 
 * numpy
-* 
+* pandas
+* matplotlib.pyplot
+* matplotlib.pylab
+* math
+* time
+* os
+* combinations from itertools
+* re
+* Counter from collections
+* Github from github
+* get_colors from distinctipy
+* base64
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
