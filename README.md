@@ -9,7 +9,7 @@ This project has been developed as part of an internship in the Muon Forward Tra
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Because some of the code uses ROOT, the project was mainly worked on through a virtual machine (VM) simulating an Ubuntu environement. The software used to manipulate the VM is VMware Workstation. For conveniance, the VM can be shared as all the code runs succefully on it.
+Because some of the code uses ROOT, the project was mainly worked on through a virtual machine (VM) simulating an Ubuntu environement. The software used to manipulate the VM is VMware Workstation.
 
 ### Prerequisites
 The libraries used in this project are listed in this section. Python3 comes with many libraries pre-installed such as numpy and pandas. To install a librairy, make sure Python3 is installed and then use pip through a terminal.
